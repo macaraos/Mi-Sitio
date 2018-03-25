@@ -70,7 +70,7 @@ Como propuesta de valor tenemos:
 Se empieza a idear y a realizar los primeros bocetos de la aplicación móvil.
 
 ![Bocetos](https://macaraos.github.io/Mi-Sitio/img/bocetos.PNG)
-![sketch](https://macaraos.github.io/Mi-Sitio/img/sketch1.PNG)
+![sketch](https://macaraos.github.io/Mi-Sitio/img/sketch.PNG)
 
 En este paso, investigamos que podría ser más atractivo para los usuarios querer ingresar a nuestra aplicación y quedarse en ella, nuestra opción fue incorporar “GAMIFICATION”, pero una vez testeado, no se entendía muy bien el propósito por lo que iteramos el producto, sacándolo.
 
