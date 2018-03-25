@@ -85,6 +85,10 @@ Terminamos el segundo producto, donde fue testeado e iterado  por el stakeholder
 
 ![prototipo](https://macaraos.github.io/Mi-Sitio/img/prototipofinal.PNG)
 
+## Prototipo
+
+[Para verlo haz click acá](https://vp6y89.axshare.com/#c=2)
+
 ## Conclusión
 
 Se trabajó con la metodología Lean Ux, refinar de manera progresiva, rápida y eficiente la oferta de valor para los usuarios.
