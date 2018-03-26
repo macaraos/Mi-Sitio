@@ -97,3 +97,7 @@ Se creó una hipótesis, se validamos, se testeó la usabilidad. Ya que se tení
 Finalmente se testeó por úlitma vez, entendiendo el modelo de negocio, la rigurosidad con la que se aplican ciertas técnicas de UX, muchas veces puede hacer más difícil proveer respuestas rápidas y valiosas.
 
 No es otra cosa que hacer todo esto más rápido.
+
+---
+
+[Macarena Araos, Portafólio](https://macaraos.github.io/Portafolio/)
