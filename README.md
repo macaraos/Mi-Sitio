@@ -93,7 +93,7 @@ Terminamos el segundo producto, donde fue testeado e iterado  por el stakeholder
 
 Se trabajó con la metodología Lean Ux, refinar de manera progresiva, rápida y eficiente la oferta de valor para los usuarios.
 
-Se creó una hipótesis, se validamos, se testeó la usabilidad. Ya que se tenía conocimiento de la forma en que pensaban los usuarios, se pudo modificar el diseño, realizando los cambios correspondientes para obtener un producto mínimo viable (MVP).
+Se creó una hipótesis, se validó y se testeó la usabilidad. Ya que se tenía conocimiento de la forma en que pensaban los usuarios, se pudo modificar el diseño, realizando los cambios correspondientes para obtener un producto mínimo viable (MVP).
 Finalmente se testeó por úlitma vez, entendiendo el modelo de negocio, la rigurosidad con la que se aplican ciertas técnicas de UX, muchas veces puede hacer más difícil proveer respuestas rápidas y valiosas.
 
 No es otra cosa que hacer todo esto más rápido.
@@ -101,3 +101,7 @@ No es otra cosa que hacer todo esto más rápido.
 ---
 
 [Macarena Araos, Portafólio](https://macaraos.github.io/Portafolio/)
+
+---
+
+_Desarrollado para Laboratoria_
