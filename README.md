@@ -1,6 +1,9 @@
 # Mi Sitio
+
 ## Banca para millennials
+
 ##### Desarrollado para [Laboratoria](https://www.laboratoria.la/)
+
 ![Inicio](https://macaraos.github.io/Mi-Sitio/img/misitio.PNG)
 
 ## Objetivo
