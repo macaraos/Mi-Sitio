@@ -4,8 +4,7 @@
 
 ### Desarrollado para [Laboratoria](https://www.laboratoria.la/)
 ---
-![Pagina de inicio](https://macaraos.github.io/Mi-Sitio/img/misitio.PNG)
----
+![Inicio](https://macaraos.github.io/Mi-Sitio/img/misitio.PNG)
 
 ## Objetivo
 
