@@ -1,5 +1,8 @@
-# Mi-Sitio 
+# Mi-Sitio
+
 Banca para millennials
+
+Desarrollado para [Laboratoria](https://www.laboratoria.la/)
 ---
 ![Pagina de inicio](https://macaraos.github.io/Mi-Sitio/img/misitio.PNG)
 ---
@@ -104,4 +107,3 @@ No es otra cosa que hacer todo esto más rápido.
 
 ---
 
-_Desarrollado para Laboratoria_
