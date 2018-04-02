@@ -1,5 +1,5 @@
-# Mi-Sitio
-## Banca para millennials
+# Mi-Sitio 
+Banca para millennials
 ---
 ![Pagina de inicio](https://macaraos.github.io/Mi-Sitio/img/misitio.PNG)
 ---
